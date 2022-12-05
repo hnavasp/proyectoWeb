@@ -1,0 +1,15 @@
+#map {
+    height: 250px;
+    width: 100%;
+    border-radius: 2px;
+    margin: auto;
+    
+}
+
+@media only screen and (max-width: 800px){
+
+    #map{
+        width: 100%;
+    }
+    
+}
